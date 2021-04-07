@@ -5,19 +5,19 @@ import TranslatedText from '../TranslatedText'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/farms">
+      <StyledAbsoluteLink href="https://farm.pump.financial">
         <TranslatedText translationId={2}>Farm</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/staking">
-        <TranslatedText translationId={4}>Staking</TranslatedText>
+      <StyledAbsoluteLink href="">
+        <TranslatedText translationId={4}></TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/syrup">SYRUP Pool</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://exchange.pancakeswap.finance" className="active">
+      <StyledAbsoluteLink href="https://pump.com.de">Token Sale</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://pump.financial" className="active">
         <TranslatedText translationId={8}>Exchange</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.info">Analytics</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pancakeswap.finance/lottery">
-        <TranslatedText translationId={14}>Lottery</TranslatedText>
+      <StyledAbsoluteLink href="https://info.pump.financial">Analytics</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://t.me/PumpSwapbot">
+        <TranslatedText translationId={14}>Claim Airdrop</TranslatedText>
       </StyledAbsoluteLink>
     </StyledNav>
   )
