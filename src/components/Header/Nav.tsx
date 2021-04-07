@@ -8,8 +8,8 @@ const Nav: React.FC = () => {
       <StyledAbsoluteLink href="https://farm.pump.financial">
         <TranslatedText translationId={2}>Farm</TranslatedText>
       </StyledAbsoluteLink>
-      <StyledAbsoluteLink href="/">
-        <TranslatedText translationId={4}></TranslatedText>
+      <StyledAbsoluteLink href="https://pump.financial">
+        <TranslatedText translationId={4}>Home</TranslatedText>
       </StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://pump.com.de">Token Sale</StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://pump.financial" className="active">
