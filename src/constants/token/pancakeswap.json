@@ -26,12 +26,12 @@
       "decimals": 18
     },
     {
-      "name": "LP3 Token",
-      "symbol": "LP3",
-      "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
-      "chainId": 97,
+      "name": "Pump Token",
+      "symbol": "PUMP",
+      "address": "0xf4fB23A5A6173344f7354C16Fc7FaF8617851d57",
+      "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/ETH.png"
+      "logoURI": "/images/coins/PUMP.png"
     },
     {
       "name": "BUSD Token",
@@ -50,12 +50,12 @@
       "logoURI": "/images/coins/bake.png"
     },
     {
-      "name": "Syrup Token",
-      "symbol": "SYRUP",
-      "address": "0x009cF7bC57584b7998236eff51b98A168DceA9B0",
+      "name": "MimonSwap Token",
+      "symbol": "MIMON",
+      "address": "0x691C70a136ACf95346869E0825739636b0332642",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/SYRUP.png"
+      "logoURI": "/images/coins/MIMON.png"
     },
     {
       "name": "BUSD Token",
@@ -82,12 +82,12 @@
       "logoURI": "/images/coins/BTC-icon.png"
     },
     {
-      "name": "BAND Protocol Token",
-      "symbol": "BAND",
-      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "name": "MallsBase",
+      "symbol": "MBASE",
+      "address": "0x3dfaC6B77A065788cb24EAf205b1cA465c48c4E1",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/band.png"
+      "logoURI": "/images/coins/MBASE.png"
     },
     {
       "name": "EOS Token",
